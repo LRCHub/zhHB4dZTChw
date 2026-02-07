@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "404 (New Era)",
+  "base_artist": "KiiiKiii",
+  "createdAt": "2026-02-07T05:31:59.590465Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "404",
+      "artist": "pinocchioP",
+      "has_synced": true,
+      "path": "select/01_404_pinocchioP.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "404",
+      "artist": "PinocchioP feat. Hatsune Miku",
+      "has_synced": true,
+      "path": "select/02_404_PinocchioP_feat._Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "404",
+      "artist": "Knife Party",
+      "has_synced": true,
+      "path": "select/03_404_Knife_Party.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "404",
+      "artist": "Ram Jam",
+      "has_synced": true,
+      "path": "select/04_404_Ram_Jam.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "404",
+      "artist": "Sansar Salvo",
+      "has_synced": true,
+      "path": "select/05_404_Sansar_Salvo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Erreur 404",
+      "artist": "L'Impératrice",
+      "has_synced": true,
+      "path": "select/06_Erreur_404_L'Impératrice.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Erreur 404 (Jvno Remix)",
+      "artist": "L'Impératrice",
+      "has_synced": false,
+      "path": "select/07_Erreur_404_(Jvno_Remix)_L'Impératrice.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Erreur 404 (JVNO remix)",
+      "artist": "L’Impératrice",
+      "has_synced": false,
+      "path": "select/08_Erreur_404_(JVNO_remix)_L’Impératrice.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Error 404",
+      "artist": "L’Impératrice",
+      "has_synced": true,
+      "path": "select/09_Error_404_L’Impératrice.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Error 404 (JVNO Remix)",
+      "artist": "L'Impératrice",
+      "has_synced": false,
+      "path": "select/10_Error_404_(JVNO_Remix)_L'Impératrice.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Simple Minds-404-alive and kicking",
+      "artist": "Simple Minds",
+      "has_synced": true,
+      "path": "select/11_Simple_Minds-404-alive_and_kicking_Simple_Minds.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "404 Not Found",
+      "artist": "REOL",
+      "has_synced": true,
+      "path": "select/12_404_Not_Found_REOL.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Песня 404",
+      "artist": "Время и Стекло",
+      "has_synced": true,
+      "path": "select/13_Песня_404_Время_и_Стекло.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Песня 404",
+      "artist": "Время и Стекло",
+      "has_synced": true,
+      "path": "select/14_Песня_404_Время_и_Стекло.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "404 Not Found",
+      "artist": "Jan Blomqvist",
+      "has_synced": false,
+      "path": "select/15_404_Not_Found_Jan_Blomqvist.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "404 (New Era)",
+      "artist": "KiiiKiii",
+      "has_synced": false,
+      "path": "select/pl_01_404_(New_Era)_KiiiKiii.txt"
+    }
+  ]
+}
